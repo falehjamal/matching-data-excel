@@ -2,3 +2,20 @@
 data perusahaan.xlsx
 data_group.xlsx
 data_group_matched.xlsx
+
+
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environments
+env/
+venv/
+
+# Configuration files
+*.env
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
